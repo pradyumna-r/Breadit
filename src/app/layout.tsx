@@ -2,7 +2,7 @@ import Navbar from "@/components/Navbar";
 import SignIn from "@/components/SignIn";
 import { cn } from "@/lib/utils";
 import "@/styles/globals.css";
-import { Toaster } from "@/components/ui/toaster";
+import { Toaster } from "@/components/ui/Toaster";
 import { Inter } from "next/font/google";
 export const metadata = {
   title: "Breadit",
